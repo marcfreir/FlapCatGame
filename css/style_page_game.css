@@ -1,0 +1,135 @@
+/* 
+    Created on : 15-Jul-2018, 06:02:39 PM
+    Author     : Marc Freir
+    License    : This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+*/
+
+html, body {
+	height: 100%;
+	width: 100%;
+}
+.navbar {
+	background-color: #8A2BE2;
+	padding: 1% 0;
+	font-size: 1.2em;
+}
+.navbar-brand {
+	min-height: 55px;
+	padding: 0 15px 5px;
+}
+.navbar-default .navbar-nav li a {
+	color: #B3ECEC;
+}
+.navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a.active {
+	color: #fff;
+}
+#home {
+	/* background-image: url('../images/mountains.jpeg'); */
+	background-color: #e3f4fc;
+	display: table;
+	height: 100%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+}
+.division {
+	padding-top: 80px;
+}
+/*
+.landing-text {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+.landing-text h1 {
+	font-size: 500%;
+	font-weight: 700;
+}
+*/
+.landing-image {
+	display: table-cell;
+	vertical-align: middle;
+	align-items: center;
+}
+.padding {
+	padding: 100px 0;
+}
+.padding img {
+	width: 100%;
+}
+#fixed {
+	background-image: url('../images/thunderstorm-3441687_1920.jpg');
+	display: block;
+    height: 60%;
+    position: relative;
+	width: 100%;
+	background-size: cover;
+}
+footer {
+	width: 100%;
+	background-color: #8A2BE2;
+	padding: 5% 5% 5% 5%;
+	color: #fff;
+}
+.fa {
+	padding: 15px;
+	font-size: 25px;
+	color: #fff;
+}
+.fa:hover {
+	color: #B3ECEC;
+	text-decoration: none;
+}
+.icon {
+	max-width: 100px;
+}
+@media (max-width: 768px) {
+	.landing-text h1 {
+		font-size: 300%;
+	}
+	.fa {
+		font-size: 20px;
+		padding: 10px;
+	}
+	.icon {
+		padding-top: 5%;
+		max-width: 100px;
+	}
+
+}
+#timmy {
+	width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 0 auto;
+    border: 3px solid #8A2BE2;
+    color: #8A2BE2;
+    line-height: 90px;
+}
+#landing-img {
+	display: table-cell;
+	vertical-align: middle;
+	margin: 0% auto;
+	margin-top: 15%;
+    align-items: center;
+    margin-bottom: 4%;
+}
+#landing-img-sorry {
+	display: table-cell;
+	vertical-align: middle;
+	margin: 2% auto;
+}
+#landing-img-whatabout {
+	display: table-cell;
+	vertical-align: middle;
+	margin: 2% auto;
+}
+.btn-lg {
+	align-items: center;
+	margin: 2% auto;
+	float: none;
+}
+p {
+	text-align: justify;
+	text-justify: inter-word;
+}
