@@ -8,7 +8,7 @@ License    : This work is licensed under a Creative Commons Attribution-NonComme
 Java Script Game
 
 PREVIEW - 1
-![alt text](FlapCatGame/_PREVIEW/2018-07-24 (38).png)
+![alt text](https://github.com/marcfreir/FlapCatGame/blob/master/_PREVIEW/2018-07-24%20(38).png)
 
 PREVIEW - 2
 ![alt text](https://github.com/marcfreir/FlapCatGame/blob/master/_PREVIEW/2018-07-24%20(39).png)
