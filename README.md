@@ -11,4 +11,4 @@ PREVIEW - 1
 ![alt text](FlapCatGame/_PREVIEW/2018-07-24 (38).png)
 
 PREVIEW - 2
-![alt text](FlapCatGame/_PREVIEW/2018-07-24 (39).png)
+![alt text](https://github.com/marcfreir/FlapCatGame/blob/master/_PREVIEW/2018-07-24%20(39).png)
